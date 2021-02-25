@@ -30,5 +30,4 @@ alert( admin );
 Belarusian-Rusian University (2020, specialist)
 
 ## Languages
-* Russian (C2)
 * English (A2)
