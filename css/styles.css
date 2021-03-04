@@ -1,0 +1,77 @@
+*,
+*::before,
+*::after{
+    margin 0;
+    padding 0;
+    box-sizing:border-box;
+}
+header {
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    }
+header h1 {
+    color: #ff0103;
+    padding: 20px;
+}
+body{
+    background-position: center;
+    background-image:url(../img/fonnn.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    background-color: #ffffff;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 20px;
+   }
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    
+}
+main {
+    color: #ff0103
+    }
+h2 {
+    color: #ff0103;
+    border: 4px solid #ff0103;
+    padding: 20px;
+    width: max-content;
+    margin: 10px auto;
+    }
+ul {
+    padding-left: 49%;
+}
+li {
+    width: 100%;
+    text-align: left;
+    justify-content: center;
+}
+details {
+    display: flex;
+     margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    }
+
+.ce {
+    width: 100%;
+    text-align: left;
+    justify-content: center;
+    padding-left: 33%;
+    
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 200px;
+    font-size: 18px;
+    color: #ff0103;
+}
